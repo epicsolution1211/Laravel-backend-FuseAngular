@@ -1,0 +1,11 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+firebaseConfig = {
+  apiKey: "AIzaSyAX0aFL7HBcVOel9HYOe4EdQCRO5TWOU74",
+  authDomain: "atavism-ff2dd.firebaseapp.com",
+  databaseURL: "https://atavism-ff2dd-default-rtdb.firebaseio.com",
+  projectId: "atavism-ff2dd",
+  storageBucket: "atavism-ff2dd.appspot.com",
+  messagingSenderId: "141085688390",
+  appId: "1:141085688390:web:d022c87aa311382f4f8047",
+  measurementId: "G-VZSE2N6CKM"
+};
